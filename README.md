@@ -100,6 +100,12 @@ g++ main.cpp -o game
 * The game doesn't let the oppponent to set a difficulty level (a lower or higher depth level) , for that they will have to change the code, no option provided for that in the terminal after the code is run
 
 ---
+## Running the Code in terminal using (./tictactoe)
+
+<img width="741" height="399" alt="TICTACTOE_0" src="https://github.com/user-attachments/assets/e88bc185-4d3c-4f38-aad5-597930373ca5" />
+<img width="751" height="715" alt="TICTACTOE_1" src="https://github.com/user-attachments/assets/7da9ca74-b33b-4a27-a881-9c6402b961cc" />
+
+---
 
 ## Conclusion
 
